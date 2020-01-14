@@ -3,3 +3,4 @@ sqlalchemy
 mysql-python
 flask-wtf
 uwsgi
+configparser
